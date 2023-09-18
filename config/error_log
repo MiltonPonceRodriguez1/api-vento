@@ -1,0 +1,52 @@
+[29-Jul-2023 02:58:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/vento/api.vento.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vento/api.vento.com/config/cache.php on line 18
+[29-Jul-2023 02:58:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/vento/api.vento.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vento/api.vento.com/config/database.php on line 18
+[29-Jul-2023 02:58:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/vento/api.vento.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/vento/api.vento.com/config/hashing.php on line 32
+[29-Jul-2023 02:58:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/vento/api.vento.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vento/api.vento.com/config/mail.php on line 16
+[29-Jul-2023 02:58:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/vento/api.vento.com/config/sanctum.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vento/api.vento.com/config/sanctum.php on line 16
+[29-Jul-2023 02:58:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/vento/api.vento.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/vento/api.vento.com/config/session.php on line 21
+[29-Jul-2023 02:58:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/vento/api.vento.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vento/api.vento.com/config/app.php on line 16
+[29-Jul-2023 02:58:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/vento/api.vento.com/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/vento/api.vento.com/config/logging.php on line 20
+[29-Jul-2023 02:58:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/vento/api.vento.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vento/api.vento.com/config/queue.php on line 16
+[29-Jul-2023 02:58:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/vento/api.vento.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vento/api.vento.com/config/services.php on line 18
+[29-Jul-2023 02:58:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/vento/api.vento.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vento/api.vento.com/config/view.php on line 17
+[29-Jul-2023 02:58:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/vento/api.vento.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vento/api.vento.com/config/filesystems.php on line 16
+[29-Jul-2023 02:58:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/vento/api.vento.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vento/api.vento.com/config/broadcasting.php on line 18
